@@ -9,4 +9,4 @@ cta:
   ctaLink: /about
 ---
 
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+Hello, This is our site which will help you to know more about the present best websites, apps, and software which you can use to grow your business
